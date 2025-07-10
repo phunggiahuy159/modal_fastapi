@@ -30,7 +30,7 @@ Follow the instructions in the terminal to authenticate and set up your account.
 ### 3. Set Up Secret
 
 Setup in modal web 
----
+
 
 ## 📝 Write Your App
 
@@ -49,7 +49,7 @@ modal deploy app_modal.py
 
 ---
 
-## 🧪 Run the Test
+## 🧪 Run the Test(can skip building app and just run test in order to test sd 1.5 api )
 
 After deploying, run your test script:
 
