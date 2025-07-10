@@ -34,7 +34,7 @@ Setup in modal web
 
 ## 📝 Write Your App
 
-In `app_modal.py`, define your Modal function. For example:
+In `app_modal.py`, define your Modal function.
 
 
 ---
